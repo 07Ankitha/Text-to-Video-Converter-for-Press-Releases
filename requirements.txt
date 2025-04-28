@@ -3,3 +3,4 @@ Pillow==8.2.0
 gTTS==2.2.3
 googletrans==4.0.0-rc1
 moviepy==1.0.3
+Flask
